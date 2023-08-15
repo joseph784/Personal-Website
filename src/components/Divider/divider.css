@@ -1,0 +1,50 @@
+
+  body {
+    background: #5D4157;
+    background: -webkit-linear-gradient(to bottom, #5D4157, #A8CABA);
+    background: linear-gradient(to bottom, #274046, #A8CABA);
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .boxD {
+    display: flex;
+    width: 100%;
+    height: 8px;
+    margin: 20px 0px 60px 0px;
+  }
+  
+  .boxD-sm {
+    height: 45px;
+    margin: 0;
+    flex-grow: 1;
+    transition: all 1s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .boxD-sm:hover {
+    flex-grow: 12;
+  }
+
+  
+  .orange {
+    background-color: #84ade3;
+  }
+  
+  .yellow {
+    background-color: #68b5c8;
+  }
+  
+  .green {
+    background-color: #c3c1cd;
+  }
+  
+  .blue {
+    background-color: #99aaae;
+  }
+  
+  .purple {
+    background-color: #a7a1a1;
+  }
