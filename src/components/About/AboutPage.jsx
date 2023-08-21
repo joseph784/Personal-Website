@@ -7,7 +7,7 @@ export default function AboutPage(){
         <>
         <div class="wrapper" >
 	        <div class="box" >
-                <p>Hey, I'm Joseph, a 4th year student, studying computer science and business at the University of British Columia. I 
+                <p>Hey, I'm Joseph, a 4th year student, studying computer science and business at the University of British Columbia. I 
                 love the interplay of technology and people and am always excited to creatively solve real problems with 
                 software. 
                 </p>
